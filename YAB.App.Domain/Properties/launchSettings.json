@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "YAB.App.Domain": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52394;http://localhost:52397"
+    }
+  }
+}

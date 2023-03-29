@@ -1,0 +1,15 @@
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\bin\Debug\net6.0\YAB.App.Service.deps.json
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\bin\Debug\net6.0\YAB.App.Service.dll
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\bin\Debug\net6.0\YAB.App.Service.pdb
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\bin\Debug\net6.0\YAB.App.Domain.dll
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\bin\Debug\net6.0\YAB.App.Domain.pdb
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.csproj.CopyComplete
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.dll
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\refint\YAB.App.Service.dll
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\YAB.App.Service.pdb
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Service\obj\Debug\net6.0\ref\YAB.App.Service.dll

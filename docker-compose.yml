@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  yab.app.api:
+    image: ${DOCKER_REGISTRY-}yabappapi
+    build:
+      context: .
+      dockerfile: YAB.App.Api/Dockerfile

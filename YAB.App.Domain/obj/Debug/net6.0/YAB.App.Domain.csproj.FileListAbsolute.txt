@@ -1,0 +1,12 @@
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\bin\Debug\net6.0\YAB.App.Domain.deps.json
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\bin\Debug\net6.0\YAB.App.Domain.dll
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\bin\Debug\net6.0\YAB.App.Domain.pdb
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\YAB.App.Domain.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\YAB.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\YAB.App.Domain.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\YAB.App.Domain.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\YAB.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\YAB.App.Domain.dll
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\refint\YAB.App.Domain.dll
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\YAB.App.Domain.pdb
+C:\Users\yusuf\source\repos\YABApp\YAB.App.Domain\obj\Debug\net6.0\ref\YAB.App.Domain.dll
